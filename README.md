@@ -9,7 +9,7 @@ git checkout "nome da branch"
 
 # Criar repositório remoto:
 git remote add "Nome do repositório remoto" 
-obs: acocelho a colocarem o nome do repositório remoto de "origin".
+obs: aconcelho a colocarem o nome do repositório remoto de "origin".
 
 # Atualizar branchs remotas:
 git pull "nome do repositório remoto" "branch"
